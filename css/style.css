@@ -941,6 +941,9 @@ border-radius: 25px;
 .event-section .event-box .text-box h3 {
 	margin: 0 0 15px 0;
 }
+.event-section .event-box:hover .text-box h3 {
+          color: #fc6432;
+}
 .event-section .event-box .text-box h3 a {
 	line-height: 36px;
 	text-decoration: none;
